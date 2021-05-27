@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome Welcome Welcome
+
+Hello, myself Nishant Choudhary
+Currently I am studying in 3rd year at IIIT VADODARA.
 
 <!--
 **N9shant/N9shant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
