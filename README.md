@@ -2,6 +2,12 @@
 <h1 align="center">Welcome Welcome Welcome</h1>
 <h3 align="center">Hello, I'm Nishant Choudhary, currently I am studying in 3rd year at IIIT VADODARA</h3>
 
+- 🌱 I’m currently learning Web Development.
+
+- 👯 I’m looking to collaborate on some web projects.
+
+- 💬 Ask me about your doubts
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/n9shant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n9shant" height="30" width="40" /></a>
@@ -13,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n9shant&show_icons=true&locale=en" alt="n9shant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n9shant&" alt="n9shant" /></p>
+
