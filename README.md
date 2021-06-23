@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n9shant&" alt="n9shant" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n9shant&show_icons=true&locale=en&layout=compact" alt="n9shant" /></p>
+
