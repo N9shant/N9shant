@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n9shant&show_icons=true&locale=en&layout=compact" alt="n9shant" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
-<p align="center"><img src="https://media1.giphy.com/media/9Gp5ZwY8FRvna/200.webp?cid=ecf05e47beb6y4gaougxn4mzrkllf84cq4xmd86domh79t4p&rid=200.webp&ct=g" alt="Thank You for visiting, Have a great day" width="250" height="80"></p>
+<p align="center"><img src="https://media4.giphy.com/media/l3q2FnW3yZRJVZH2g/200.webp?cid=ecf05e47yos1lobhve9a6kzdv4z54wuo2wdlwh5o7z7q5hxc&rid=200.webp&ct=g" alt="Thank You for visiting, Have a great day" width="300" height="100"></p>
 
