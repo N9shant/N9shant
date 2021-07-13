@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome Welcome Welcome</h1>
 <h3 align="center">Hello, I'm Nishant Choudhary, currently I am studying in 3rd year at IIIT VADODARA</h3>
 
@@ -7,6 +6,9 @@
 - 👯 I’m looking to collaborate on some web projects.
 
 - 💬 Ask me about your doubts
+
+<p  align="center"><img src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/200w.webp?cid=ecf05e475w7hyqpvj5ylc0knrwkz2de77umb7c51c1winkj0&rid=200w.webp&ct=g" alt="Coder GIF" width="400" height="250">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n9shant&theme=dark" alt="n9shant" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n9shant&show_icons=true&locale=en&layout=compact&theme=dark" alt="n9shant" /></p>
-
-<p align="center"><img src="https://media4.giphy.com/media/l3q2FnW3yZRJVZH2g/200.webp?cid=ecf05e47yos1lobhve9a6kzdv4z54wuo2wdlwh5o7z7q5hxc&rid=200.webp&ct=g" alt="Thank You for visiting, Have a great day" width="300" height="100"></p>
+<!-- 
+<p align="center"><img src="https://media4.giphy.com/media/l3q2FnW3yZRJVZH2g/200.webp?cid=ecf05e47yos1lobhve9a6kzdv4z54wuo2wdlwh5o7z7q5hxc&rid=200.webp&ct=g" alt="Thank You for visiting, Have a great day" width="300" height="100"></p> -->
 
