@@ -9,6 +9,7 @@
 
 <p  align="center"><img src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/200w.webp?cid=ecf05e475w7hyqpvj5ylc0knrwkz2de77umb7c51c1winkj0&rid=200w.webp&ct=g" alt="Coder GIF" width="400" height="250">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n9shant&label=Profile%20views&color=0e75b6&style=flat" alt="n9shant" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
