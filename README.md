@@ -1,5 +1,5 @@
 <h1 align="center">Welcome Welcome Welcome</h1>
-<h3 align="center">Hello, I'm Nishant Choudhary, currently I am studying in 3rd year at IIIT VADODARA</h3>
+<h3 align="center">Hello, I'm Nishant Choudhary, currently I am studying in final year at IIIT VADODARA</h3>
 
 - 🌱 I’m currently learning Web Development.
 
